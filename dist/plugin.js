@@ -1,6 +1,6 @@
-exports.version = 1
+exports.version = 0.2
 exports.description = "This is an empty plugin, for testing purposes"
-exports.apiRequired = 1
+exports.apiRequired = 0.1
 exports.repo = "rejetto/demo-plugin"
 
 exports.init = api => {
